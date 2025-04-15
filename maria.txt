@@ -12,10 +12,11 @@ git init
 git remote add origin https://github.com/mariem101/tptest.git
 cd 
 cd Documents
-rmdir tptest
+rm -rf tptest
 git clone https://github.com/mariem101/tptest.git
 cd tptest
-nano maria.txt (au fur et a mesure je mets les commandes)
+nano maria.txt 
+( Controle X, O, OK )
 
 git branch maria 
 git checkout maria
@@ -28,6 +29,8 @@ git checkout main
 git pull
 git checkout maria
 git add *
-git commit
+git commit -m
 git remote -v
 git push -u origin main
+
+chaque update sont suivi de " git checkout -b "
