@@ -26,5 +26,8 @@
 - cd ..
 
 - git add * 
+- git config user.email "dorian.maury@efrei.net"
+- git config user.name "Dmaury26" 
+- git commit -m « Partie Html basic v1 »
 
 
