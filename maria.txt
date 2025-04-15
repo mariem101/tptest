@@ -10,8 +10,13 @@ touch maria.txt
 nano maria.txt
 git init 
 git remote add origin https://github.com/mariem101/tptest.git
-rmdir tptest
+cd 
+cd Documents
+rm -rf tptest
 git clone https://github.com/mariem101/tptest.git
+cd tptest
+nano maria.txt 
+( Controle X, O, OK )
 
 git branch maria 
 git checkout maria
@@ -20,7 +25,12 @@ git config user.email "lopikook@gmail.com"
 git config user.name "lopikook"
 git add mobile.css
 git commit -m "partie mobile"
-git log --oneline --graph --decorate
+git checkout main
+git pull
+git checkout maria
+git add *
+git commit -m
 git remote -v
-git push -u origin maria
+git push -u origin main
 
+chaque update sont suivi de " git checkout -b "
