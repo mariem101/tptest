@@ -1,0 +1,19 @@
+Maria Allaf
+je fais la partie mobile
+les commandes dans l'ordre sont:
+apt update 
+apt upgrade 
+apt install git 
+cd Documents
+mkdir tptest
+cd tptest
+touch maria.txt
+nano maria.txt
+git init 
+git remote add origin https://github.com/mariem101/tptest.git
+rmdir tptest
+git clone https://github.com/mariem101/tptest.git
+
+git branch maria 
+git checkout maria 
+
