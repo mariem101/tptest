@@ -1,12 +1,30 @@
-MASMOUDI MARIEM
-Je suis sur la partie css 
-les premieres commandes :
-apt update && apt upgrade 
-apt install git 
-cd Documents 
-mkdir tptest
-cd tptest
-touch commandes.txt
-nano commandes.txt
-git init
-ls -a
+﻿Commandes de Maury Dorian (partie html) 
+
+- apt install git 
+- apt update 
+- apt upgrade 
+- cd Documents 
+- mkdir tptest
+- cd tptest 
+- git init
+- git remote add origin https://github.com/mariem101/tptest.git
+- cd ..
+- git clone https://github.com/mariem101/tptest.git 
+- cd tptest
+- nano dorian.txt
+- git branch dorian
+- git checkout dorian
+- mkdir html
+- mkdir images
+- nano index.html
+- cd html
+- nano page1
+- nano page2
+- cd ..
+- cd images
+- nano logo.jpg (image factice) 
+- cd ..
+
+- git add * 
+
+
