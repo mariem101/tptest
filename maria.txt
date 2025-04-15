@@ -1,8 +1,7 @@
 Maria Allaf
 je fais la partie mobile
 les commandes dans l'ordre sont:
-apt update 
-apt upgrade 
+apt update && apt upgrade 
 apt install git 
 cd Documents
 mkdir tptest
