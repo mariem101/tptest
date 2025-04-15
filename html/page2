@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>Page 2</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../mobile.css">
+        <link rel="stylesheet" href="../style.css">
+    </head>
+    <body>
+        <header>
+            <a href="../index.html"><img src="../images/logo.jpg" alt="logo SEO"></a>
+            <h1>Site TPtest</h1>
+        </header>
+        <nav>
+            <a href="../index.html">Accueil</a>
+            <a href="page1.html">Page 1</a>
+            <a href="page2.html">Page 2</a>
+        </nav>
+        <main>
+            <article>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit natus laboriosam fugit expedita suscipit alias accusantium ad ratione eum ipsam est nostrum nam quidem quia ea, incidunt vitae necessitatibus provident.</p>
+            </article>
+            <article>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, nam, quo libero voluptatibus, nulla dolore placeat neque id iure ea aliquid dolores provident laborum reprehenderit veniam? Molestiae tenetur porro hic.</p>
+            </article>
+            <article>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero quod architecto, sint odio alias sed. Illum necessitatibus, laboriosam, corporis odio magni reiciendis enim autem aliquam assumenda error aut ipsa amet.</p>
+            </article>
+        </main>
+        <aside>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam laboriosam modi cumque harum quasi! Nemo, iste accusantium sunt dolor corrupti, et itaque ea nobis ipsum, non ipsa dolorem natus quidem? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores assumenda itaque maxime libero iure magnam, quibusdam officiis voluptate totam reprehenderit. Deserunt dignissimos aliquid laudantium iusto reiciendis similique libero sequi odit.</p>
+        </aside>
+        <footer>&copy; copyrights</footer>
+    </body>
+</html>
