@@ -29,8 +29,11 @@
 - git config user.email "dorian.maury@efrei.net"
 - git config user.name "Dmaury26" 
 - git commit -m « Partie Html basic v1 »
+- git checkout main 
+- git pull 
+- git checkout dorian
 - git add * (pour ajouter dans le main) 
-- git commit « ajout de la partie html + commandes) 
+- git commit « ajout de dorian.txt dans le main » 
 - git push -u origin main
 
 
