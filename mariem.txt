@@ -19,7 +19,7 @@ git checkout main
 git pull
 git checkout mariem
 git add *
-git commit « les commandes » 
+git commit -m « les commandes » 
 git push -u origin main
 git commit -m "partie css sans partie mobile"
 
