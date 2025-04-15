@@ -1,6 +1,6 @@
 MASMOUDI MARIEM (je suis sur la partie css)
 
-les premieres commandes
+Les commandes
 apt update && apt upgrade
 apt install git
 cd Documents
