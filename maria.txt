@@ -16,4 +16,7 @@ git clone https://github.com/mariem101/tptest.git
 
 git branch maria 
 git checkout maria 
+git config user.email "lopikook@gmail.com"
+git config user.name "lopikook"
+git commit -m "partie mobile"
 
