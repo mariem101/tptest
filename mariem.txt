@@ -1,6 +1,6 @@
 MASMOUDI MARIEM (je suis sur la partie css)
+Les commandes :
 
-Les commandes
 apt update && apt upgrade
 apt install git
 cd Documents
@@ -19,9 +19,8 @@ git checkout main
 git pull
 git checkout mariem
 git add *
-git commit -m « les commandes » 
+git commit -m " les commandes " / git commit -m "partie css sans partie mobile"
 git push -u origin main
-git commit -m "partie css sans partie mobile"
 
 git config user.email "masmoudimariem0@gmail.com"
 git config user.name "mariem101"
