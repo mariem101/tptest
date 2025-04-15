@@ -15,9 +15,15 @@ git branch mariem
 git checkout mariem
 nano style.css
 
+git checkout main
+git pull
+git checkout mariem
 git add *
+git commit « les commandes » 
+git push -u origin main
+git commit -m "partie css sans partie mobile"
+
 git config user.email "masmoudimariem0@gmail.com"
 git config user.name "mariem101"
-git commit -m "partie css sans partie mobile"
 
 y'avait un probleme avec la branche de dorian (et je suis pas sur si ya un probleme avec sa machine aussi )du coup j'ai fait les modifications sur mon ordinateur et j'ai essaye de refaire le dorian.txt plusieurs fois et a la fin ca marchait !! yay :)
