@@ -1,6 +1,6 @@
 MASMOUDI MARIEM (je suis sur la partie css)
+Les commandes :
 
-Les commandes
 apt update && apt upgrade
 apt install git
 cd Documents
@@ -15,8 +15,24 @@ git branch mariem
 git checkout mariem
 nano style.css
 
+git checkout main
+git pull
+git checkout mariem
 git add *
+git commit -m " les commandes " / git commit -m "partie css sans partie mobile"
+git push -u origin main
+
 git config user.email "masmoudimariem0@gmail.com"
 git config user.name "mariem101"
-git commit -m "partie css sans partie mobile"
 
+y'avait un probleme avec la branche de dorian (et je suis pas sur si ya un probleme avec sa machine aussi )du coup j'ai fait les modifications sur mon ordinateur et j'ai essaye de refaire le dorian.txt plusieurs fois et a la fin ca marchait !! yay :)
+
+du coup :
+git checkout origin/dorian
+git checkout dorian
+git pull
+git add dorian.txt (pendant le probleme qu'on a vecu jai essaye de changer dorian a dorianm.txt et a maury.txt)
+git commit -m "les commandes de dorian"
+git push -u origin main
+git config user.email "masmoudimariem0@gmail.com"
+git config user.name "mariem101"
